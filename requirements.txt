@@ -33,7 +33,7 @@ gapic-google-cloud-spanner-v1==0.15.3
 gapic-google-cloud-speech-v1beta1==0.15.3
 gapic-google-cloud-vision-v1==0.90.3
 gcloud==0.18.3
-gevent==1.2.1
+gevent==23.9.0
 google-api-python-client==1.6.2
 google-auth==1.0.2
 google-auth-httplib2==0.0.2
