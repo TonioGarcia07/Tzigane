@@ -22,7 +22,7 @@ cycler==0.10.0
 dill==0.2.7.1
 enum34==1.1.6
 Flask==0.12
-future==0.16.0
+future==0.18.3
 gapic-google-cloud-datastore-v1==0.15.3
 gapic-google-cloud-error-reporting-v1beta1==0.15.3
 gapic-google-cloud-logging-v2==0.91.3
